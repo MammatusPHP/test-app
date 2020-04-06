@@ -3,7 +3,7 @@
     "description": "Test Application",
     "license": "MIT",
     "extra": {
-        "reactive-apps": {
+        "mammatus": {
             "config": [
                 "etc/config/*.php"
             ]
