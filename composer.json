@@ -1,6 +1,7 @@
 {
     "name": "mammatus/test-app",
     "description": "Test Application",
+    "license": "MIT",
     "extra": {
         "reactive-apps": {
             "config": [
