@@ -1,0 +1,11 @@
+{
+    "name": "mammatus/test-app",
+    "description": "Test Application",
+    "extra": {
+        "reactive-apps": {
+            "config": [
+                "etc/config/*.php"
+            ]
+        }
+    }
+}
